@@ -35,11 +35,21 @@ Passion: Building Real World Tech & AI
 
 ---
 
+
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakeshsenSE&show_icons=true&theme=tokyonight" alt="Rakesh's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshsenSE&layout=compact&theme=tokyonight" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rakeshsenSE&show_icons=true&theme=dark" alt="Rakesh's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshsenSE&layout=compact&theme=dark" alt="Top Langs" width="48%" />
 </p>
-![Snake animation](https://raw.githubusercontent.com/rakeshsenSE/rakeshsenSE/output/github-contribution-grid-snake.svg)
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rakeshsenSE/rakeshsenSE/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+<p align="center">💜 Code • Learn • Build • Repeat 💜</p>
 
