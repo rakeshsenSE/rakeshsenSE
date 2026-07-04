@@ -5,7 +5,7 @@
 </p>
 
 
-<h1 align="center">Full Stack Developer & AI Enthusiast</h1>
+<h1 align="center">Data Analysis / Data Science </h1>
 
 
 <p align="center">
