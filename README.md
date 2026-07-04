@@ -38,9 +38,13 @@ Passion: Building Real World Tech & AI
 
 ### 📊 GitHub Statistics
 
+---
+
+### 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakeshsenSE&show_icons=true&theme=dark" alt="Rakesh's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshsenSE&layout=compact&theme=dark" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rakeshsenSE&show_icons=true&theme=algolia" alt="Rakesh's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rakeshsenSE&layout=compact&theme=algolia" width="48%" />
 </p>
 
 ---
