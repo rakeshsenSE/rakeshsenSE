@@ -24,5 +24,5 @@ Education: B.Sc. (Honors) in Computer Science and Engineering
 Focus: Data Analysis / Data Science / AI Devloper
 Passion: Building Real World Tech & AI 
 ```
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/rakeshsenSE/rakeshsenSE/output/github-contribution-grid-snake.svg)
 
