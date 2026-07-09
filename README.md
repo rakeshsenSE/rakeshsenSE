@@ -35,7 +35,7 @@ Passion: Building Real World Tech & AI
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://github.com/rakeshsenSE)
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/rakeshsenSE)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://github.com/rakeshsenSE)
-[![Streamlit](https://img.shields.io/badge/Streamlit —%23FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)](https://github.com/rakeshsenSE)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://github.com/rakeshsenSE)
 
 </p>
 
